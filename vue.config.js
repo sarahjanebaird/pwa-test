@@ -14,4 +14,5 @@ module.exports = defineConfig({
       swSrc: "src/service-worker.js",
       // ...other Workbox options...
   },
+  }
 })
